@@ -3,12 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\Nicholas\\Design Process\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|c:\\users\\nicholas\\design process\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\itemselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicholas\\Design Process\\Assets\\CameraMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|c:\\users\\nicholas\\design process\\assets\\scripts\\sizeselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sizeselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\itemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\changequantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changequantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\item3dviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item3dviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\rotatedrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatedrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicholas\\Downloads\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\Rotatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\inputfieldmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputfieldmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|C:\\Users\\Nicholas\\Design Process\\assets\\scripts\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BCB4AC-B9D9-5794-CABD-B0489EB6FF1A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +57,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CameraMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\CameraMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\CameraMovement.cs",
-              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\CameraMovement.cs",
-              "RelativeToolTip": "Assets\\CameraMovement.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAAA9AAAA",
+              "Title": "SizeSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\SizeSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SizeSelector.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\SizeSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SizeSelector.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T04:57:54.941Z"
+              "WhenOpened": "2025-10-31T05:30:40.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeQuantity.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\ChangeQuantity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeQuantity.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\ChangeQuantity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeQuantity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:17:54.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quantity.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\Quantity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Quantity.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\Quantity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Quantity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:12:33.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item3DViewer.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\Item3DViewer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item3DViewer.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\Item3DViewer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item3DViewer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwIEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:54:04.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\ItemDetails.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemDetails.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\ItemDetails.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:09:34.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fader.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\Fader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fader.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\Fader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fader.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T04:50:54.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InputFieldManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\InputFieldManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputFieldManager.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\InputFieldManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputFieldManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T04:22:41.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadingScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\LoadingScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingScreen.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\LoadingScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingScreen.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T04:04:07.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rotatable.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Downloads\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\Rotatable.cs",
+              "RelativeDocumentMoniker": "..\\Downloads\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\Rotatable.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Downloads\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\Rotatable.cs",
+              "RelativeToolTip": "..\\Downloads\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\4366ba95dc21b6b2d77247e483a3c1bc-57c0f3f298c3e2ee83627a3fa9df08652ecf34a7\\Rotatable.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:03:23.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RotateDrag.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\RotateDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateDrag.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\RotateDrag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateDrag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:57:27.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:53:36.238Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\PlayerMovement.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwCgAAAAgAAAA",
+              "Title": "ItemSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\ItemSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemSelect.cs",
+              "ToolTip": "C:\\Users\\Nicholas\\Design Process\\Assets\\Scripts\\ItemSelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemSelect.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAQwJEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T04:45:37.954Z",
+              "WhenOpened": "2025-10-03T07:21:22.763Z",
               "EditorCaption": ""
             }
           ]
